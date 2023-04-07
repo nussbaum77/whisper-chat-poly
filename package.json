@@ -1,0 +1,16 @@
+{
+  "name": "whisper-chat-poly",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Raul Medina Nussbaum <raul.medina@it2xtreme.com>",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.306.0",
+    "@aws-sdk/s3-request-presigner": "^3.306.0",
+    "openai": "^3.2.1"
+  }
+}
